@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: * I love Tech
 
+## About Me
+Software Developer building AI agents with LangChain, GPT, and Supabase.
+Skilled in DevOps (Docker, CI/CD, GitHub Actions) to deploy secure, scalable solutions.Focused on HealthTech innovation and automation for real-world clinical impact.
+
+
 
 
 ## 🌐 Socials:
