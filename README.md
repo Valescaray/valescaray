@@ -1,22 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chukwudum 👋
 **DevOps & Software Engineer | AI agents, CI/CD, cloud deployment**
 
+I build AI-powered apps and the infrastructure to ship them reliably.
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **AI powered webapp projects**
-- 🌱 I’m currently learning **Langchain and Devops tools**
-- 👯 I’m looking to collaborate on **Open Source AI tools**
-- 🤔 I’m looking for help with **Improving AI pipeline efficiency**
-- 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **chukwudum55@gmail.com**
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: * I love Tech
 
-## About Me
-Software Developer building AI agents with LangChain, GPT, and Supabase.
-Skilled in DevOps (Docker, CI/CD, GitHub Actions) to deploy secure, scalable solutions.Focused on HealthTech innovation and automation for real-world impact.
+## What I can help with
+
+- 🚀 **CI/CD pipelines**: automated build, test and deploy with GitHub Actions
+- 🐳 **Containerization & deployment**: Dockerized apps, secure and repeatable releases
+- 🤖 **AI agent apps**: LangChain, GPT and Supabase, from prototype to production
+- 🔍 **Quick infra audits**: deploy speed, reliability, basic security and cloud cost
+
+
+## Open to
+Short DevOps/backend contracts, trial projects and junior or intern roles at startups
 
 
 
